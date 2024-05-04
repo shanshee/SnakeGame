@@ -7,6 +7,10 @@ This project is a simple snake game implemented using Python's turtle graphics m
 The game consists of a snake controlled by the player, and the objective is to eat the food items 
 to grow longer. The game ends when the snake collides with the screen boundaries or its own body.
 
+![Screenshot 2024-05-04 235941](https://github.com/shanshee/SnakeGame/assets/135793255/a75be0bc-0bd5-4972-8af7-e636a2a84771)
+![Screenshot 2024-05-05 000024](https://github.com/shanshee/SnakeGame/assets/135793255/d9bcc1d9-ac99-4446-98d2-fec0aff2d22c)
+![Screenshot 2024-05-04 235753](https://github.com/shanshee/SnakeGame/assets/135793255/66e38c69-bc13-44ce-a423-799131b89830)
+
 Features:
 
 Snake Class: The Snake class represents the snake in the game. It allows the player to control 
